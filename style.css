@@ -1,0 +1,130 @@
+#body{
+    background-color: rgb(22, 21, 21);
+    /* align-items: center; */
+}
+#fimg {
+    /* align-items: center; */
+    margin-top: 25px;
+    margin: 0 auto;
+    display: block;
+    width: 25%;
+    margin-bottom: 70px;
+}
+#buttons {
+        /* margin-top: px; */
+    margin: auto;
+    display: block;
+    width: 25%;
+    /* margin-bottom: 20px;border: 2px solid white; */
+    width: 59%;
+    margin-bottom: 30px;
+}
+#btn1 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+#span {
+    margin-left: 50px;
+}
+#btn2 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: #000000;
+    color: white;
+}
+#span1 {
+    margin-left: 50px;
+}
+#btn3 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: green;
+    color: white;
+}
+#span2 {
+    margin-left: 50px;
+}
+#btn4 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: rgb(104, 104, 253);
+    color: white;
+}
+#span3 {
+    margin-left: 50px;
+}
+#btn5 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: rgb(230, 64, 64);
+    color: white;
+}
+#span4 {
+    margin-left: 50px;
+}
+#btn6 {
+    /* width: 130px; */
+    height: 40px;
+    border: none;
+    background-color: rgb(117, 117, 255);
+    color: white;
+    width: 120px;
+}
+#btn7 {
+    background-color: rgb(22, 21, 21);
+    height: 30px;
+    border: none;
+    color: white;
+    width: 120px;
+}
+#let {
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#exbtn {
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 60px;
+    border-radius: 200px;
+    border: none;
+    background-color: #3bd9b4;
+    color: white;
+    font-size: larger;
+    margin-bottom: 40px;
+}
+#exbtn:hover{
+  background-color: rgba(236, 13, 143, 0.692); 
+  transform: scale(1.05);
+  /* width: 230px; */
+  /* transition-delay: 0.2s ease-in-out; */
+  transition: background-color 0.3s ease-in-out; 
+}
+#text {
+    /* border: 1px solid white; */
+    margin: auto;
+    display: block;
+    width: 1000px;
+    color: white;
+    border-bottom: 40px;
+    font-weight: bold;
+    /* font-size: larg; */
+}
+#text a {
+    color: white;
+}
+/* #text1 {
+     margin: auto;
+    display: block;
+    width: 1000px;
+    color: white;
+    font-weight: bold;
+} */
